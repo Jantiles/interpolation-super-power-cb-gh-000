@@ -1,9 +1,9 @@
 # Write your #display_rainbow method here
 def display_rainbow(colors)
-  prints "R: red"
-  prints "O: orange"
+  print "R: red"
+  print "O: orange"
   print "Y: yellow"
-  puts "G: green"
+  print "G: green"
   puts "B: blue"
   puts "I: indigo"
   puts "V: violet"
