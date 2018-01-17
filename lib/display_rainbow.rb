@@ -4,7 +4,7 @@ def display_rainbow(colors)
   print "O: orange"
   print "Y: yellow"
   print "G: green"
-  puts "B: blue"
-  puts "I: indigo"
+  print "B: blue"
+  print "I: indigo"
   puts "V: violet"
 end
