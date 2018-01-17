@@ -2,7 +2,7 @@
 def display_rainbow(colors)
   prints "R: red"
   prints "O: orange"
-  puts "Y: yellow"
+  print "Y: yellow"
   puts "G: green"
   puts "B: blue"
   puts "I: indigo"
